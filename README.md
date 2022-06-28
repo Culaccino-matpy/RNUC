@@ -1,4 +1,4 @@
-# 西安电子科技大学2022届物理与光电工程学院毕业设计
+# Residual-learning based Non-uniformity Correction Net（RNUCnet）
 ## 2022.4
 
 本代码是本人毕业设计
