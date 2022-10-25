@@ -1,5 +1,7 @@
 # Residual-learning based Non-uniformity Correction Net（RNUCnet）
 ## 2022.4
+# 西安电子科技大学毕业设计
+
 
 本代码是本人毕业设计
 毕设题目：基于卷积神经网络的红外图像非均匀性校正的研究。
