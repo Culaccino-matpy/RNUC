@@ -1,6 +1,6 @@
 # Residual-learning based Non-uniformity Correction Net（RNUCnet）
 ## 2022.4
-# 西安电子科技大学毕业设计
+## 西安电子科技大学毕业设计
 
 
 本代码是本人毕业设计
